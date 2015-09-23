@@ -3,7 +3,7 @@ WowWee MiPosaur Bluetooth Low Energy Protocol
 
 ![](Images/MiPosaur.png)
 
-The free MiPosaur BLE protocol lets you send and receive commands to and from your [MiPosaur robot](http://www.wowwee.com/MiPosaur). You will need to write your own control code in the language of your choice using an appropriate Bluetooth Low Energy library.
+The free MiPosaur BLE protocol lets you send and receive commands to and from your [MiPosaur robot](http://www.wowwee.com/miposaur). You will need to write your own control code in the language of your choice using an appropriate Bluetooth Low Energy library.
 
 Pre-built official SDKs are coming soon.
 
